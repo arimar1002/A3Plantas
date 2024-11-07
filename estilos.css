@@ -1,0 +1,205 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: 'Raleway', sans-serif;
+	background-color: aliceblue;
+}
+
+#contenedor{
+	width: 950px;
+	height: 1125px;
+	background-color:lightgoldenrodyellow;
+	margin:auto;
+}
+
+#logo{
+	width: 950px;
+	height: 100px;
+	text-align: center;
+	background-color:#A0B92F ;
+}
+
+#menu{
+	width: 950px;
+	height: 40px;
+	background-color:#FFE99A ;
+}
+
+.textologo{
+	font-size: 85px;
+	font-weight: 900;
+	color:#FFEDA9;
+	text-decoration: none;
+}
+
+#logo a:hover{
+	color: floralwhite;
+	text-decoration: underline;
+}
+
+#menu1{
+	width: 142px;
+    height: 40px;
+	background-color: #DC95D1;
+	float: left;
+	margin-right:10px;
+	text-align: center;
+}
+
+#menu1 a:hover{
+	color:#00D9FF;
+	text-decoration: underline;
+}
+
+#menu2{
+	width: 142px;
+    height: 40px;
+	background-color: #DC95D1;
+	float: left;
+	margin-right:10px;
+	text-align: center;
+}
+
+#menu2 a:hover{
+	color:#00D9FF;
+	text-decoration: underline;
+}
+
+#menu3{
+	width: 142px;
+    height: 40px;
+	background-color: #DC95D1;
+	float: left;
+	margin-right:10px;
+	text-align: center;
+}
+
+#menu3 a:hover{
+	color:#00D9FF;
+	text-decoration: underline;
+}
+
+#menu4{
+	width: 142px;
+    height: 40px;
+	background-color: #DC95D1;
+	float: left;
+	margin-right:10px;
+	text-align: center;
+}
+
+#menu4 a:hover{
+	color:#00D9FF;
+	text-decoration: underline;
+}
+
+
+.classmenu{
+	font-size: 21px;
+	font-weight: 500;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#imagenprincipal{
+	width: 470px;
+	height: 410px;
+	background-color:coral;
+	float: left;
+}
+
+#imagensecundaria{
+	width: 460px;
+	height: 250px;
+	background-color: darksalmon;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	float: right;
+}
+
+#contenido1{
+	width: 460px;
+	height: 140px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	background-color: #D8A6E6;
+	float: right;
+	text-align: center
+}
+
+#contenedornotas{
+	width: 950px;
+	height: 270px;
+	background-color:khaki;
+	clear: both;
+	margin-bottom:10px;
+}
+
+#nota1{
+	width: 225px;
+	height: 250px;
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+	text-align: center;
+}
+
+#nota2{
+	width: 225px;
+	height: 250px;
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+	text-align: center;
+}
+
+
+#nota3{
+	width: 225px;
+	height: 250px;
+	margin-top: 10px;
+	margin-left: 10px;
+	float: left;
+	text-align: center;
+}
+
+#nota4{
+	width: 225px;
+	height: 250px;
+	margin-top: 10px;
+	margin-left: 10px;
+	float:left;
+	text-align: center;
+}
+
+#contenido2{
+	width: 930px;
+	height: 250px;
+	background-color: darkorange;
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#imagentres{
+	width: 480px;
+	height: 250px;
+	float: right;
+}
+
+#contenido2texto{
+	width: 450px;
+	height: 250px;
+	text-align: center;
+}
+
+#footer{
+	width: 950px;
+	height: 55px;
+	background-color: chartreuse;
+	float: left;
+}
